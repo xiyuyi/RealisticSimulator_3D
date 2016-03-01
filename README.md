@@ -1,6 +1,6 @@
 # RealisticSimulator_3D
 
-License and Copyrights
+# License and Copyrights
 
 Copyright (C) 2016 Xiyu Yi - chinahelenyxy @ gmail.com
 
