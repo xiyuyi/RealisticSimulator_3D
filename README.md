@@ -4,7 +4,7 @@ License and Copyrights
 
 FRETBursts - A bursts analysis toolkit for single and multi-spot smFRET data.
 
-Copyright (C) 2014 Antonino Ingargiola - tritemio @ gmail.com
+Copyright (C) 2016 Xiyu Yi - chinahelenyxy @ gmail.com
 
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License version 2, as published by the Free Software Foundation.
 
